@@ -14,21 +14,7 @@ A results-driven developer focused on building scalable backend systems and solv
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **DevOps/Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
----
 
-### 🚀 Key Projects
-
-#### [Project Name 1](https://github.com/yourusername/project-repo)
-* **Description:** A low-latency system built to handle [X] using [Y].
-* **Tech:** C++, Socket Programming, Multi-threading.
-* **Outcome:** Improved data throughput by 40% compared to baseline.
-
-#### [Project Name 2](https://github.com/yourusername/project-repo)
-* **Description:** A microservices-based backend for a car-driver console logic.
-* **Tech:** Go, Redis, Docker.
-* **Outcome:** Implemented efficient autocomplete logic for high-frequency location queries.
-
----
 
 ### 📊 GitHub Stats
 
