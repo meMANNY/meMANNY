@@ -1,26 +1,113 @@
-# Hi there, I'm Aman Tripathi 👋
-**Software Development Engineer | Backend & Full-Stack Enthusiast**
+# Aman Tripathi
 
-A results-driven developer focused on building scalable backend systems and solving complex algorithmic problems. I enjoy diving deep into low-level optimizations and networking protocols.
+**Software Engineer | Full-Stack Developer | Machine Learning Enthusiast**
 
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-
-
-
+I enjoy building scalable software systems, working on applied machine learning problems, and solving algorithmic challenges.  
+My interests lie at the intersection of **systems engineering, data, and real-world impact**.
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-tripathi-a89bb2227/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/amanttripathi02/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+## 🔧 Technical Skills
+
+### Programming Languages
+- C++, Python, JavaScript, Java
+- SQL, Bash
+
+### Web & Backend Development
+- Node.js, Express.js
+- React, REST APIs
+- WebSockets, Authentication, Real-time Systems
+
+### Machine Learning & Data Science
+- PyTorch, TensorFlow
+- CNNs, Vision Transformers (ViT)
+- Time-Series Forecasting, Deep Learning
+- NumPy, Pandas, Scikit-learn
+
+### Systems & DevOps
+- Linux, Git, Docker
+- CI/CD (Jenkins)
+- Cloud fundamentals (AWS / GCP)
+
+### Core CS Concepts
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Database Systems
+
+---
+
+## 📌 Featured Projects
+
+### Hybrid Deep Learning Strategies for Spatiotemporal ENSO Prediction
+- Vision Transformer–based architecture for Niño3.4 index forecasting  
+- Multi-scale spatiotemporal feature extraction from SST data  
+- Research-oriented and reproducible implementation  
+- **Tech:** PyTorch, CNNs, ViT, Time-Series Analysis
+
+### Real-Time Messaging Application
+- End-to-end real-time chat system using WebSockets  
+- Scalable backend with authentication and message persistence  
+- **Tech:** Node.js, Express, MongoDB, WebSockets
+
+### Peer-to-Peer File Sharing Tool
+- Decentralized P2P architecture for efficient file transfer  
+- Chunk-based transfer with multithreading support  
+- **Tech:** C++, Computer Networks, Multithreading
+
+> 📌 Pin these repositories on your GitHub profile for best visibility.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🧠 Problem Solving & Competitive Programming
+
+- Solved **500+ Data Structures & Algorithms problems**
+- Strong grasp on:
+  - Arrays, Linked Lists, Trees, Graphs
+  - Dynamic Programming
+  - Greedy Algorithms, Binary Search
+- Active on **LeetCode** and **Codeforces**
+
+---
+
+## 📄 Research Experience
+
+- Replicated and analyzed IEEE research papers in:
+  - 6G Networks
+  - Deep Learning–based ENSO Forecasting
+- Focus on:
+  - Architectural clarity
+  - Experimental evaluation
+  - Reproducibility
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
+- **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
+- **LeetCode:** https://leetcode.com/YOUR_USERNAME  
+- **Email:** your.email@example.com
+
+---
+
+## ⚡ What I Care About
+
+- Writing clean, maintainable, and scalable code
+- Understanding systems beyond abstractions
+- Applying ML to meaningful real-world problems
+- Continuous learning and technical depth
+
+---
+
+⭐ Feel free to explore my repositories or reach out for collaboration.
+
