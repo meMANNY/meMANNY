@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aman Tripathi 👋
 **Software Development Engineer | Backend & Full-Stack Enthusiast**
 
 A results-driven developer focused on building scalable backend systems and solving complex algorithmic problems. I enjoy diving deep into low-level optimizations and networking protocols.
@@ -40,6 +40,6 @@ A results-driven developer focused on building scalable backend systems and solv
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-tripathi-a89bb2227/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/amanttripathi02/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
