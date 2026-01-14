@@ -16,12 +16,7 @@ A results-driven developer focused on building scalable backend systems and solv
 
 
 
-### 📊 GitHub Stats
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=00599C" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=00599C" />
-</p>
 
 ---
 
